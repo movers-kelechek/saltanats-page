@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 90px;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    line-height: 2em;
+}
+h2 {
+    color: #8acece;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.profession {
+    font-weight: normal;
+    line-height: 2em;
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+    
+.skill-row {
+    width: 50%;
+    margin: auto;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.my-photo {
+    width: 200px;
+    height: 200px;
+}
+.footer-link {
+    color: #11999E;
+}
+.coding {
+    width: 25%;
+   float: left;
+   margin: 30px;
+    
+}
+.soft-skills {
+    width: 25%;
+    float: right;
+   
+    
+   
+}
+.code-skills-description {
+    
+    
+}
+.soft-skills-description {
+    
+}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px;
+    border: solid #11CDD4 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+.footer-link {
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.copyright {
+    color: black;
+}
+
+
